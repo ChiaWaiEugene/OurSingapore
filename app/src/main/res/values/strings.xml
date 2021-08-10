@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">OurSingapore</string>
+    <string name="name">Island Name</string>
+    <string name="hint_name">Enter Island name here</string>
+    <string name="description">Description</string>
+    <string name="hint_description">Enter descriptions\' name here</string>
+    <string name="squarekm">Square Km</string>
+    <string name="hint_squarekm"></string>
+    <string name="stars">Stars</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+
+    <string name="title_activity_main">My Singapore ~ Show Islands</string>
+
+    <string name="id">Island ID</string>
+    <string name="btnShowList">Show List</string>
+    <string name="btnInsert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="btn5Stars">Show all islands with 5 stars</string>
+
+</resources>
